@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+fastapi        #  to build the API
+mlflow         #  to track runs
+python-multipart
